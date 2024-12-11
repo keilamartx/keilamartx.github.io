@@ -1,0 +1,92 @@
+*{
+    font-family: sans-serif;
+}
+
+header{
+    background-color: #103A57;
+}
+
+p{
+    font-size: 18px;;
+}
+
+.nav-item a{
+    color: white;
+}
+
+#boton-perfil{
+    background-color: #b5d984;
+    color: #103A57;
+}
+
+.nav-item a:hover{
+    color: #b5d984;
+}
+
+#app{
+    color: #103A57;
+}
+
+.boton-cv{
+    color: #103A57;
+    border-color: #103A57;
+}
+
+.boton-cv:hover{
+    background-color: #103A57;
+    border-color: #103A57;
+}
+
+
+.habilidades{
+    background: linear-gradient(white, #d4e5cec0, white);     
+}
+
+.boton-proyecto{
+    border-color: #b5d984;
+}
+
+.boton-proyecto a{
+    text-decoration: none;
+    color: #103A57;
+}
+
+.boton-proyecto:hover{
+    background-color: #103A57;
+}
+
+.boton-proyecto a:hover{
+    color: #b5d984;
+}
+
+.btn-primary{
+    background-color: #103A57;
+    border-color: #103A57;
+}
+
+.btn-primary:hover{
+    background-color: #b5d984;
+    border-color: #b5d984;
+}
+
+.card-subtitle{
+    color: #709340;
+    font-size: 20px;
+}
+.card-title{
+    font-size: 25px;
+}
+
+footer li a{
+    color: #103A57;
+}
+
+footer li a:hover{
+    color: #b5d984;
+}
+
+footer span a{
+    text-decoration: none;
+    color: #103A57;
+}
+
